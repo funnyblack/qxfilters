@@ -1,3 +1,5 @@
 host-keyword, google, OpenAI
 host-suffix, openai.com, OpenAI
 host-keyword, openai, OpenAI
+DOMAIN-SUFFIX,claude.ai,OpenAI
+DOMAIN-SUFFIX,anthropic.com,OpenAI
