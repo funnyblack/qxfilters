@@ -1,5 +1,5 @@
 host-suffix, weixin.com, 🎯 国内直连
-host-suffix, funnyblack.cn, 🎯 国内直连
+ip-cidr, 43.140.198.0/24, 🎯 国内直连
 host-suffix, douban.com, 🎯 国内直连
 host-suffix, qlogo.cn, 🎯 国内直连
 host, ocsp.pki.goog, 🎯 国内直连
