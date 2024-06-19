@@ -6,6 +6,8 @@ host, ocsp.pki.goog, 🎯 国内直连
 host-suffix, snssdk.com, 🎯 国内直连
 host-suffix, byteimg.com, 🎯 国内直连
 host-suffix, byted-static.com, 🎯 国内直连
+host-suffix, huxiu.com, 🎯 国内直连
+host-suffix, qyer.com, 🎯 国内直连
 host-suffix, bytedance.com, 🎯 国内直连
 host-suffix, zijieapi.com, 🎯 国内直连
 host-suffix, ibytedapm.com, 🎯 国内直连
@@ -16,6 +18,7 @@ host-suffix, juejin.cn, 🎯 国内直连
 host-suffix, csdn.net, 🎯 国内直连
 host-suffix, zhimg.com, 🎯 国内直连
 host-suffix, cnblogs.com, 🎯 国内直连
+host-suffix, ccb.com, 🎯 国内直连
 host-suffix, gitlab.cn, 🎯 国内直连
 host-suffix, qpic.cn, 🎯 国内直连
 host-suffix, qq.com.cn, 🎯 国内直连
