@@ -1,4 +1,5 @@
 host-keyword, google, OpenAI
+host-keyword, github, OpenAI
 host-suffix, openai.com, OpenAI
 host-keyword, openai, OpenAI
 host-keyword, chatgpt, OpenAI
