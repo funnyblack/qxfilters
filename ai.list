@@ -2,5 +2,6 @@ host-keyword, google, OpenAI
 host-keyword, github, OpenAI
 host-keyword, openai, OpenAI
 host-keyword, chatgpt, OpenAI
+host-keyword, oaistatic, OpenAI
 DOMAIN-SUFFIX,claude.ai,OpenAI
 DOMAIN-SUFFIX,anthropic.com,OpenAI
