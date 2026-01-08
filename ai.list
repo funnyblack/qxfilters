@@ -4,5 +4,6 @@ host-keyword, gstatic, OpenAI
 host-keyword, openai, OpenAI
 host-keyword, chatgpt, OpenAI
 host-keyword, oaistatic, OpenAI
+host-keyword, huggingface, OpenAI
 DOMAIN-SUFFIX,claude.ai,OpenAI
 DOMAIN-SUFFIX,anthropic.com,OpenAI
